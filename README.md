@@ -2,3 +2,6 @@
 Recipe API project.
 
 USAGE
+
+
+License
